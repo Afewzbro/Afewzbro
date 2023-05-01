@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TESTI AFENDI ABDULWASI</h1>
+<h1 align="center">I'm TESTI AFENDI ABDULWASI</h1>
 <h3 align="center">A passionate web app developer from Ethiopia. Right now 4th year student in firat university in Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afewzbro&label=Profile%20views&color=0e75b6&style=flat" alt="afewzbro" /> </p>
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/abdulwasitesti" target="blank"><img src="https://img.shields.io/twitter/follow/abdulwasitesti?logo=twitter&style=for-the-badge" alt="abdulwasitesti" /></a> </p>
 
-- 🔭 I’m currently working on **service reservation**
+- 🔭 I’m currently working on **building Freelance application for drone service**
 
-- 🌱 I’m currently learning **flask framework**
+- 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python, flutter/dart**
 
 - 📫 How to reach me **testiafendi@yahoo.com**
 
